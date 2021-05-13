@@ -43,3 +43,4 @@ elif numero==2:
   areaTriangulo()
 elif numero==3:
   areaRectangulo()
+  print("")
